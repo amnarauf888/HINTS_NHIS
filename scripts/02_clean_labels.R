@@ -1,5 +1,5 @@
 # ============================================================
-# 02_clean_recode.R
+# 02_clean_labels.R
 # Purpose: Filter to analysis population and recode raw survey
 #          codes into labeled, analysis-ready variables
 # Input:   HINTS6_raw, Adult_NHIS_raw (from 01_import.R)
